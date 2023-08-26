@@ -19,7 +19,7 @@ import javax.validation.Valid;
 public class RegexController {
 new
     meghana
-    sudip  
+    sudip
     @Autowired
     private RegularExpressionService regularExpressionService;
 
