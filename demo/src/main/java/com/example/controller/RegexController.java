@@ -17,7 +17,7 @@ import javax.validation.Valid;
 @RestController
 @RequestMapping("/api/v1")
 public class RegexController {
-new
+word
     meghana
     sudip
     @Autowired
