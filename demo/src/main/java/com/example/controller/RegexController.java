@@ -17,9 +17,7 @@ import javax.validation.Valid;
 @RestController
 @RequestMapping("/api/v1")
 public class RegexController {
-sudip
-    new sarkar
-    hello new world
+sudip sarkar
     @Autowired
     private RegularExpressionService regularExpressionService;
 
