@@ -23,7 +23,7 @@ new
     @Autowired
     private RegularExpressionService regularExpressionService;
 
-//    @PostMapping("/post")
+//    @PostMapping("/name")
 //    public ResponseEntity<Example> saveOneId(@RequestBody @Valid Dto regex){
 //        Example regex1 = regularExpressionService.saveOneId(regex);
 //        return new ResponseEntity<>(regex1, HttpStatus.CREATED);
